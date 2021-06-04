@@ -34,4 +34,4 @@ def site_blocker(start_hour, end_hour):
 
 
 if __name__ == '__main__':
-    site_blocker(11, 18)  # Specify a time period in
+    site_blocker(11, 18)  # Specify a time period in military time
