@@ -20,7 +20,7 @@ For the program to work, a cron job with root privileges will have to be set up 
 4. Press 'esc' and enter ':wq' to save your command.
 5. Restart your computer and enjoy the productivity boost.
 
-#### Learn more about how to run crontabs:
+#### Learn more about how to run cron jobs:
 [‘crontab’ in Linux with Examples](https://crontab.guru)
 
 ### Windows Users
