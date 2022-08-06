@@ -28,7 +28,7 @@ Instead of crontab, task schedueler will be used.
 1. Have Python 3 installed.
 2. Change the extension of the script from '.py' to '.pyw'.
 3. Open 'Task Scheduler'.
-4. Click on 'Create Task'. Use whatever name you'd like for the task and make sure the option 'Run with highest priveleges' is chosen.
+4. Click on 'Create Task'. Use whatever name you'd like for the task and make sure the option 'Run with highest privileges' is chosen.
 5. Go to the 'Triggers' tab. Click on the drop down for 'Begin the task:' and choose 'At startup'
 6. Create a new action by goin to the 'Actions' bar, clicking 'New', and passing the path for the script (Make sure the file path you use exists in your system).
 7. Go to the 'Conditions' tab and unselect that 'Power' options
